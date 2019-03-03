@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 
 const char* ssid     = "kokwei";
-const char* password = "xopalx217";
+const char* password = "-";
 const char* host = "192.168.43.222";
 int button = 5;
 int previous = HIGH;
